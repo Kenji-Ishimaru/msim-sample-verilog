@@ -9,7 +9,7 @@ bin/            - bash script
 work/           - simulation work directory
 
 ## How to Run
-1. add ModelSim bin path to the bash $PATH
+1. add ModelSim bin path to your bash $PATH
 ```
 $export PATH=$PATH:/your-path/modelsim_ase/bin
 ```
