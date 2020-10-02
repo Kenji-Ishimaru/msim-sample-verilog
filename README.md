@@ -3,10 +3,10 @@
 ModelSim verilog simulation environment sample
 
 ## Directories
-rtl/            - verilog source code
-scenario/       - test scenario
-bin/            - bash script
-work/           - simulation work directory
+- rtl/            - verilog source code
+- scenario/       - test scenario
+- bin/            - bash script
+- work/           - simulation work directory
 
 ## How to Run
 1. add ModelSim bin path to your bash $PATH
