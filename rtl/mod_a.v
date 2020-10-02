@@ -35,9 +35,6 @@
 // OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
 // EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 //
-// Revision History
-// $Date: 2015-01-18 05:14:01 +0900 (日, 18  1月 2015) $
-// $Rev: 5 $
 
 module mod_a (
   input        clk,
@@ -52,5 +49,3 @@ always @(posedge clk or negedge rst_x) begin
 end
 
 endmodule
-
-   

@@ -35,9 +35,6 @@
 // OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
 // EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 //
-// Revision History
-// $Date: 2015-04-04 09:50:46 +0900 (土, 04  4月 2015) $
-// $Rev: 17 $
 
 module test_module;
 
